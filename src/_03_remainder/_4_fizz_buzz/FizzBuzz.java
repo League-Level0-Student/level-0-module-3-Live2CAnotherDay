@@ -28,7 +28,7 @@ public class FizzBuzz {
 		
 		for( int i = 1 ; i <= 20; i++ ) {
 			// Divisible by 3 and divisible by 5
-			if() {
+			if((i % 3 = 0) and (1 % 5 = 0)){
 				System.out.println("FizzBuzz");
 			}
 			// Divisible by 3
